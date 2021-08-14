@@ -7,6 +7,11 @@ Monash Bootcamp Assignment 10 - Object-Oriented Programming: Team Profile Genera
 This aim of this project is to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. As testing is key to making code maintainable, jest unit tests have been incorportated to ensure quality of code developed.
 
 ### Project Link
+https://vvnnzar.github.io/MBC10_Team-Profile-Generator/
+
+https://github.com/vvnnzar/MBC10_Team-Profile-Generator/blob/main/assets/tests.gif
+https://github.com/vvnnzar/MBC10_Team-Profile-Generator/blob/main/assets/teamgenerator.gif
+
 
 ### Screen layout and Design
 
