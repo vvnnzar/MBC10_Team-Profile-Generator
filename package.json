@@ -1,0 +1,23 @@
+{
+  "name": "mbc10_team-profile-generator",
+  "version": "1.0.0",
+  "description": "Monash Bootcamp Assignment 10 - Object-Oriented Programming: Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvnnzar/MBC10_Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvnnzar/MBC10_Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/vvnnzar/MBC10_Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  }
+}
